@@ -4,10 +4,10 @@
 
 - 👨‍🏫  Student at Collège de Maisonneuve in web developement and software developement
 - 🌱  I’m currently learning Kotlin, C+ and Firebase.
-- 📫  How to reach me:
-<div>
+- 📫  How to reach me: <br />
+
   [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
+
 ## Version française
 
 - 👨‍🏫  Étudiant au Collège de Maisonneuve en technique informatique - Développement d'application.
