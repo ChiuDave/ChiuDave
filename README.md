@@ -5,7 +5,7 @@
 - 👨‍🏫  Student at Collège de Maisonneuve in web developement and software developement
 - 🌱  I’m currently learning Kotlin, C+ and Firebase.
 - 📫  How to reach me:
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/david-chiu-/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Version française
 
