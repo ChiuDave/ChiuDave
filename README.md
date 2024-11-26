@@ -1,6 +1,6 @@
 ## Hi I'm David 👋
 
-## Version anglaise
+## Who I am
 
 - 👨‍🏫  Student at Collège de Maisonneuve in web developement and software developement
 - 🌱  I’m currently learning Kotlin, C+, Dart and Firebase.
