@@ -2,14 +2,12 @@
 
 ## Who I am
 
-- 👨‍🏫  Student at Collège de Maisonneuve in web developement and software developement
-- 🌱  I’m currently learning Next.js.
+- 👨‍🏫  Student at Ecole de technolgie superieur (ETS) in Software Engineer
+- 🌱  I’m currently refining my skill on Object Oriented Programming (OOP)
 - 📫  How to reach me: <br />
 
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- Mardown -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/david-chiu-
+<div>
+  <a href="https://www.linkedin.com/in/david-chiu-">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
